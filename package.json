@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "underscore": "latest",
-    "jquery": "latest",
+    "jquery": "2.2.x",
     "moment": "latest"
   },
   "license": "MIT",
